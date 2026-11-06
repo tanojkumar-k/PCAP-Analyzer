@@ -19,4 +19,12 @@ A lightweight, real-time network traffic analysis and visualization tool built f
    ```bash
    git clone [https://github.com/tanojkumar-k/PCAP-Analyzer.git](https://github.com/tanojkumar-k/PCAP-Analyzer.git)
    cd PCAP-Analyzer
-   
+2. **Install dependencies:**
+   ```bash
+   pip install scapy dash pandas
+3. **Generate sample network traffic:**
+   ```bash
+   python generate_pcap.py
+4. **Run the Dash dashboard:**
+   ```bash
+   python app.py
