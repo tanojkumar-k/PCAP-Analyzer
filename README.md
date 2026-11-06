@@ -17,5 +17,5 @@ A lightweight, real-time network traffic analysis and visualization tool built f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/tanojkumar-k/PCAP-Analyzer.git](https://github.com/tanojkumar-k/PCAP-Analyzer.git)
+   git clone https://github.com/tanojkumar-k/PCAP-Analyzer.git
    cd PCAP-Analyzer
